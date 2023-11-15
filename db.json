@@ -1,0 +1,108 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "name": "Gertrudis Tatterton",
+        "contact": 7607567568,
+        "email": "gtatterton0@ehow.com",
+        "country": "USA",
+        "status":"active",
+        "company":"Acme Corporation",
+        "joinDate":"29/11/2023"
+      },
+      {
+        "id": 2,
+        "name": "Gail Newbatt",
+        "contact": 7607567568,
+        "email": "gnewbatt1@un.org",
+        "country": "USA",
+        "status":"active",
+        "company":"Acme Corporation",
+        "joinDate":"29/11/2023"
+    
+      },
+      {
+        "id": 3,
+        "name": "Walliw Wilstead",
+        "contact": 7607567568,
+        "email": "wwilstead2@tripadvisor.com",
+        "country": "USA",
+        "status":"active",
+        "company":"Acme Corporation",
+        "joinDate":"29/11/2023"
+      },
+      {
+        "id": 4,
+        "name": "Abran Proback",
+        "contact": 7607567568,
+        "email": "aproback3@theglobeandmail.com",
+        "country": "USA",
+        "status":"active",
+        "company":"Acme Corporation",
+        "joinDate":"29/11/2023"
+        
+      },
+      {
+        "id": 5,
+        "name": "Roda Chappelow",
+        "contact": 7607567568,
+        "email": "rchappelow4@oaic.gov.au",
+        "country": "USA",
+        "status":"active",
+        "company":"Acme Corporation",
+        "joinDate":"29/11/2023"
+      },
+      {
+        "id": 6,
+        "name": "Karney Wylie",
+        "contact": 7607567568,
+        "email": "kwylie5@miitbeian.gov.cn",
+        "country": "USA",
+        "status":"active",
+        "company":"Acme Corporation",
+        "joinDate":"29/11/2023"
+        
+      },
+      {
+        "id": 7,
+        "name": "Cammi Pimbley",
+        "contact": 7607567568,
+        "email": "cpimbley6@nyu.edu",
+        "country": "USA",
+        "status":"active",
+        "company":"Acme Corporation",
+        "joinDate":"29/11/2023"
+      },
+      {
+        "id": 8,
+        "name": "Gavra Manning",
+        "contact": 7607567568,
+        "email": "gmanning7@lycos.com",
+        "country": "USA",
+        "status":"active",
+        "company":"Acme Corporation",
+        "joinDate":"29/11/2023"
+
+      },
+      {
+        "id": 9,
+        "name": "Zachary Seward",
+        "contact": 7607567568,
+        "email": "zseward8@oracle.com",
+        "country": "USA",
+        "status":"active",
+        "company":"Acme Corporation",
+        "joinDate":"29/11/2023"
+      },
+      {
+        "id": 10,
+        "name": "Chucho Norssister",
+        "contact": 7607567568,
+        "email": "cnorssister9@mayoclinic.com",
+        "country": "USA",
+        "status":"active",
+        "company":"Acme Corporation",
+        "joinDate":"29/11/2023"
+      }
+    ]
+  }
